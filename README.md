@@ -1,0 +1,1 @@
+# Leitor-de-clima-mundial-por-API
